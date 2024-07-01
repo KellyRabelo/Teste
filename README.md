@@ -3,5 +3,5 @@ Video com execução dos testes https://vimeo.com/973442201/4884d91720?share=cop
 Senha e Usuário do Mantis com descrição dos casos de testes automatizados.
 Dados:
 https://mantis-prova.base2.com.br/login_page.php
-kelly_santos
-testes123
+Login kelly_santos
+Senha testes123
